@@ -1,4 +1,4 @@
-# Predict-financial-recessin
+
 The major goal of this project is to predict financial re-
 cession given the frequencies of the top 500 word stems in the reports of
 financial companies. After applying various learning models, we can see that
